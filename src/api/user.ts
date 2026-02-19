@@ -17,8 +17,8 @@ const mockUsers: Record<number, UserInfo> = {
     account_status: 'active',
     kyc_status: 'verified',
     security_level: 'high',
-    avatarUrl: '/avatars/zhangwei.jpg',
-    balance: 34230.56
+    avatarUrl: 'https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png',
+    balance: 34230.56,
   },
   2: {
     user_id: 2,
@@ -35,7 +35,7 @@ const mockUsers: Record<number, UserInfo> = {
     kyc_status: 'pending',
     security_level: 'medium',
     avatarUrl: '/avatars/lisi.jpg',
-    balance: 15680.23
+    balance: 15680.23,
   },
   3: {
     user_id: 3,
@@ -52,8 +52,8 @@ const mockUsers: Record<number, UserInfo> = {
     kyc_status: 'not_started',
     security_level: 'low',
     avatarUrl: '/avatars/wangwu.jpg',
-    balance: 8920.75
-  }
+    balance: 8920.75,
+  },
 }
 
 // API响应类型
