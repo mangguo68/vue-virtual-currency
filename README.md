@@ -124,23 +124,23 @@ npm run format
 
 ### 首页仪表盘
 
-<img width="1910" height="933" alt="仪表盘" src="https://github.com/user-attachments/assets/f6018635-a65c-4782-ac5a-7cd9dcff985f" />
+<img width="1128" height="642" alt="PixPin_2026-02-19_19-50-15" src="https://github.com/user-attachments/assets/e4480c89-3edd-4de0-8d33-acad022b4b8c" />
 
 ### 工具菜单
 
-<img width="1910" height="933" alt="工具菜单" src="https://github.com/user-attachments/assets/d44ba0c1-683a-43bf-aba5-e8e449072995" />
+<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/8b6c2baa-3f10-4c0a-9a4f-cb501e3a31ce" />
 
 ### 数据统计
 
-<img width="1910" height="933" alt="数据统计" src="https://github.com/user-attachments/assets/3ea46899-5da1-4761-a3fd-d339377d5fc3" />
+<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/519fcd30-894f-4a93-b609-8cffdbcfa463" />
 
 ### 服务器状态监控
 
-<img width="1910" height="933" alt="服务器状态" src="https://github.com/user-attachments/assets/a8cb3acb-ddcb-4356-8c2b-eb7da7cdb155" />
+<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/02cc94a5-137d-4646-b539-bb26e3a6683f" />
 
 ### 用户设置
 
-<img width="1910" height="933" alt="用户设置" src="https://github.com/user-attachments/assets/6e72881a-e243-4836-95f2-788eab17340f" />
+<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/8e390ef5-f3e0-4546-8c5a-9370e0045321" />
 
 ## 🔧 开发指南
 
