@@ -1,3 +1,8 @@
+// 启用 Mock API（仅在开发环境）
+if (process.env.NODE_ENV === 'development') {
+  import('./mock')
+}
+
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import ElementPlus from 'element-plus'

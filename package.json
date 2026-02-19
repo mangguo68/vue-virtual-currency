@@ -21,6 +21,7 @@
     "axios": "^1.12.2",
     "echarts": "^6.0.0",
     "element-plus": "^2.11.2",
+    "mockjs": "^1.1.0",
     "pinia": "^3.0.3",
     "swiper": "^12.0.2",
     "tailwindcss": "^4.1.13",
@@ -29,7 +30,8 @@
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.2",
-    "@types/node": "^22.16.5",
+    "@types/mockjs": "^1.0.10",
+    "@types/node": "^22.19.11",
     "@vitejs/plugin-vue": "^6.0.1",
     "@vue/tsconfig": "^0.7.0",
     "npm-run-all2": "^8.0.4",
